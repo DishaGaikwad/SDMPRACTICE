@@ -1,3 +1,8 @@
+name :Disha Vilas Gaikwad
+
+
+
+
 #!/bin/bash
 echo "Enter a number:"
 read num
